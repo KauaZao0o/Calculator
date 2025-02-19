@@ -12,13 +12,11 @@ Develop a functional and responsive calculator with an intuitive interface and a
 
 # Tech Stack 💻
 <ul>
-  <li>Python (Tkinter): For a lightweight and efficient graphical user interface.</li>
-  <li>Java (Swing): For a more structured and robust approach to desktop applications.</li>
-  <li>Other Languages (planned): Expanding the project to other technologies such as JavaScript (Electron.js), C# (WinForms/WPF), or even mobile versions with React Native or Kotlin.</li>
+  <li><b>Python (Tkinter):</b> For a lightweight and efficient graphical user interface.</li>
+  <li><b>Java (Swing):</b> For a more structured and robust approach to desktop applications.</li>
+  <li><b>PHP:</b> For a web-based implementation, enabling server-side calculations and storage of user history.</li>
+  <li><b>Other Languages (planned):</b> Expanding the project to other technologies such as JavaScript (Electron.js), C# (WinForms/WPF), or even mobile versions with React Native or Kotlin.</li>
 </ul>
 
 
   <i>This project aims to explore different programming languages and frameworks to understand their strengths and weaknesses in developing interactive graphical applications.</i>
-
-
-
